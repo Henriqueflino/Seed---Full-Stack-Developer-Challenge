@@ -9,11 +9,15 @@ body {
   margin: 0;
   background-color: white;
 }
+img {
+  position: absolute;
+  top: 40%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
 .search-box {
   position: absolute;
   top: 50%;
   left: 50%;
   transform: translate(-50%, -50%);
-}
-.search-text {
 }
