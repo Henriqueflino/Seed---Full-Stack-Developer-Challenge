@@ -21,6 +21,10 @@ img {
   left: 50%;
   transform: translate(-50%, -50%);
 }
-
+.search-text {
+  border: 15;
+}
 .btn-search {
+  width: max-content;
+  height: 30;
 }
